@@ -71,9 +71,6 @@
   </div>
 </template>
 
-<script setup>
-import { HeartPulse, Stethoscope, Calendar, Clock } from 'lucide-vue-next'
-</script>
 <script>
 export default {
   name: 'HomeView',
